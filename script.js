@@ -13,4 +13,4 @@ while (guess !== number) {
   } else {
     alert('You got it right! Refresh the page to try again!')
   }
-} 
+}
